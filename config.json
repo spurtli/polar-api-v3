@@ -1,0 +1,8 @@
+{
+  "gemName": "polar-api-v3",
+  "library": "typhoeus",
+  "moduleName": "Polar",
+  "gemVersion": "1.0.0",
+  "strictSpecBehavior": false
+}
+
