@@ -39,7 +39,7 @@ Finally add this to the Gemfile:
 
 If the Ruby gem is hosted at a git repository: https://github.com/GIT_USER_ID/GIT_REPO_ID, then add the following in the Gemfile:
 
-    gem 'polar-api-v3', :git => 'https://github.com/GIT_USER_ID/GIT_REPO_ID.git'
+    gem 'polar-api-v3', :git => 'https://github.com/spurtli/polar-api-v3.git'
 
 ### Include the Ruby code directly
 
